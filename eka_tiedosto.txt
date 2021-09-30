@@ -1,3 +1,4 @@
 tämä on tiedoston ensimmäinen osa
 johon tulee paljon enemmän tekstiä ja kuvia,kunhan saan tehtyä.
+Lisätty gitiin kirjoitusta lisää.
 
